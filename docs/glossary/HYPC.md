@@ -1,0 +1,1 @@
+HYPc is an ERC-20 token used within the HyperCycle ecosystem. Its primary function is to be exchanged for cHYPc through a smart contract. As of now, HYPc itself doesn’t have direct utility but serves as a transitional token for accessing more advanced features in the ecosystem.

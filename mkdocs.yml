@@ -1,0 +1,7 @@
+site_name: HyperCycle User Guide
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: green
